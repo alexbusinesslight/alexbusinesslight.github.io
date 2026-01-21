@@ -1,11 +1,11 @@
 # alexbusinesslight.github.io
 
 # Worksheet & Assignment Links
-Worksheet 1: https://alexbusinesslight.github.io/Worksheet1/index.html
+[Worksheet 1](https://alexbusinesslight.github.io/Worksheet1/index.html)
 
-Worksheet 2: https://alexbusinesslight.github.io/Worksheet2/index.html
+[Worksheet 2](https://alexbusinesslight.github.io/Worksheet2/index.html)
 
-Assignment 1: https://alexbusinesslight.github.io/Assignment1/index.html
+[Assignment 1](https://alexbusinesslight.github.io/Assignment1/index.html)
 
 
 Three People I've Met

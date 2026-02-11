@@ -7,6 +7,7 @@
 
 [Assignment 1](https://alexbusinesslight.github.io/Assignment1/index.html)
 
+[Assignment 2](https://alexbusinesslight.github.io/Assignment2/index.html)
 
 Three People I've Met
 - Raj | Improve Programming 
